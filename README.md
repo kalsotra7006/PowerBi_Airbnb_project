@@ -1,6 +1,6 @@
 # 🏠 Airbnb US Market Dashboard — Power BI
 
-This was my first Power BI project where I analyzed 
+This was my Power BI project where I analyzed 
 real-world Airbnb data to understand how pricing and 
 availability vary across US cities.
 
